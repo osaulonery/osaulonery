@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @osaulonery
+- 👀 I’m interested in developing
+- 🌱 I’m currently learning TypeScript
