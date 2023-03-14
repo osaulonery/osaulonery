@@ -2,9 +2,13 @@
 
 ###
 
-<p align="left">My name is Saulo Nery and I'm a fullstack developer from Fortaleza, Ceará, Brazil.</p>
+<p align="left">My name is Saulo Nery and I'm a fullstack jr. developer from Fortaleza, Ceará, Brazil.</p>
 
 ###
+
+<div align="center">
+ [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=osaulonery&bg_color=bad4cf&color=17975b&line=2a78cb&point=747abe&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  </div>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/saulo-nery-90075b235/" target="_blank">
@@ -18,7 +22,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Angular <br>🎯 Goals: learn all I can and work hard to be a little better every day<br>🎲 Fun fact: used to be a chemistry teacher but always loved TI. Enjoying this process every single day.</p>
+<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently working with Angular and Flutter <br>🎯 Goals: learn all I can to become a better dev <br>🎲 Fun fact: used to be a chemistry teacher but always loved TI. Enjoying this process every single day.</p>
 
 ###
 
@@ -33,13 +37,9 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="40" width="52" alt="nestjs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" width="52" alt="angularjs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Flutter-Dark.svg" height="40" width="52" alt="css3 logo"  />
 </div>
 
 ###
