@@ -7,7 +7,8 @@
 ###
 
 <div align="center">
- [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=osaulonery&bg_color=bad4cf&color=17975b&line=2a78cb&point=747abe&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ <img src="https://github-readme-activity-graph.cyclic.app/graph?username=osaulonery&bg_color=bad4cf&color=17975b&line=2a78cb&point=747abe&area=true&hide_border=true" width="80" height="40" alt="graph logo"  />
+
   </div>
 
 <div align="center">
@@ -39,7 +40,7 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Flutter-Dark.svg" height="40" width="52" alt="css3 logo"  />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Flutter-Dark.svg" height="40" width="52" alt="flutter logo"  />
 </div>
 
 ###
