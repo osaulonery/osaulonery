@@ -11,7 +11,7 @@
 
   </div>
 
-<div align"center">
+<div align="center">
 LINKEDIN 💻
 </div>
 <div align="center">
