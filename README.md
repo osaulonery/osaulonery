@@ -7,7 +7,7 @@
 ###
 
 <div align="center">
- <img src="https://github-readme-activity-graph.cyclic.app/graph?username=osaulonery&bg_color=bad4cf&color=17975b&line=2a78cb&point=747abe&area=true&hide_border=true" width="80" height="40" alt="graph logo"  />
+ <img src="https://github-readme-activity-graph.cyclic.app/graph?username=osaulonery&bg_color=bad4cf&color=17975b&line=2a78cb&point=747abe&area=true&hide_border=true" width="600" height="100" alt="graph logo"  />
 
   </div>
 
@@ -40,7 +40,11 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" height="40" width="52" alt="js logo"  />
+ <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/angularjs/angularjs-original.svg" height="40" width="52" alt="angular logo"  />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Flutter-Dark.svg" height="40" width="52" alt="flutter logo"  />
+ <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/dart/dart-original.svg" height="40" width="52" alt="dart logo"  />
+
 </div>
 
 ###
