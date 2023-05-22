@@ -7,11 +7,6 @@
 ###
 
 <div align="center">
- <img src="https://github-readme-activity-graph.cyclic.app/graph?username=osaulonery&bg_color=bad4cf&color=17975b&line=2a78cb&point=747abe&area=true&hide_border=true" width="2000" height="400" alt="graph logo"  />
-
-  </div>
-
-<div align="center">
 LINKEDIN 💻
 </div>
 <div align="center">
